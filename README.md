@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm JiYeon Song
 
-<!--
-**SongZzi/SongZzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Front-End web development
+- ✍ I'm majoring in Software
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://songzzi.github.io/)](https://songzzi.github.io/)
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s1990626@gmail.com)](mailto:s1990626@gmail.com)
+  
+</div>
